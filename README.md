@@ -18,3 +18,7 @@ Discover flashcards covering everything from useless puns to geography!  Registe
 5.  `bundle exec shotgun`
 
 ### Contributors
+
+1. @dchome
+2. @JonSchwartz93
+3. @kevcorper
