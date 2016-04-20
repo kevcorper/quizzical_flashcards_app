@@ -19,6 +19,8 @@ Discover flashcards covering everything from useless puns to geography!  Registe
 
 ### Contributors
 
+(skeleton/config and valuable guidance from the great mentors at @Devbootcamp)
+
 1. @dchome
 2. @JonSchwartz93
 3. @kevcorper
